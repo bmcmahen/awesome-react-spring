@@ -25,7 +25,7 @@ A collection of awesome resources for [react-spring](https://www.react-spring.io
 
 - [React-Image-Enlarger](https://github.com/bmcmahen/react-image-enlarger) - Medium.com style image zooming with gesture support.
 - [React-Gesture-Stack](https://github.com/bmcmahen/react-gesture-stack) - an animated stack view for the web similar to that found in iOS.
-- [React-Gesture-Gallery](https://github.com/bmcmahen/react-gesture-gallery) - ah image gallery with gesture support.
+- [React-Gesture-Gallery](https://github.com/bmcmahen/react-gesture-gallery) - an image gallery with gesture support.
 - [Toasted-Notes](https://toasted-notes.netlify.com/) - react toast notifications with an imperative api.
 - [React-Grid-DND](https://github.com/bmcmahen/react-grid-dnd) - Drag and drop, grid edition. 
 - [React-Page-Controller](https://github.com/bmcmahen/react-page-controller) - Swipeable views for creating carousels, image galleries, or swipeable tab content.
