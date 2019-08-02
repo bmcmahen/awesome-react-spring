@@ -23,16 +23,16 @@ A collection of awesome resources for [react-spring](https://www.react-spring.io
 
 #### UI Components 
 
-- [React-Image-Enlarger](https://github.com/bmcmahen/react-image-enlarger) - Medium.com style image zooming with gesture support.
+- [React-Image-Enlarger](https://github.com/bmcmahen/react-image-enlarger) - medium.com style image zooming with gesture support.
 - [React-Gesture-Stack](https://github.com/bmcmahen/react-gesture-stack) - an animated stack view for the web similar to that found in iOS.
 - [React-Gesture-Gallery](https://github.com/bmcmahen/react-gesture-gallery) - an image gallery with gesture support.
 - [Toasted-Notes](https://toasted-notes.netlify.com/) - react toast notifications with an imperative api.
-- [React-Grid-DND](https://github.com/bmcmahen/react-grid-dnd) - Drag and drop, grid edition. 
-- [React-Page-Controller](https://github.com/bmcmahen/react-page-controller) - Swipeable views for creating carousels, image galleries, or swipeable tab content.
+- [React-Grid-DND](https://github.com/bmcmahen/react-grid-dnd) - drag and drop, grid edition. 
+- [React-Page-Controller](https://github.com/bmcmahen/react-page-controller) - swipeable views for creating carousels, image galleries, or swipeable tab content.
 
 #### UI Libraries
 
-- [Sancho UI](https://sancho-ui.com/) - Sancho is a responsive and accessible design system built with Typescript and Emotion.
+- [Sancho UI](https://sancho-ui.com/) - a responsive and accessible design system built with Typescript and Emotion.
 
 #### Demos 
 
