@@ -29,6 +29,7 @@ A collection of awesome resources for [react-spring](https://www.react-spring.io
 - [Toasted-Notes](https://toasted-notes.netlify.com/) - react toast notifications with an imperative api.
 - [React-Grid-DND](https://github.com/bmcmahen/react-grid-dnd) - drag and drop, grid edition. 
 - [React-Page-Controller](https://github.com/bmcmahen/react-page-controller) - swipeable views for creating carousels, image galleries, or swipeable tab content.
+- [React-Cube-Navigation](https://github.com/bmcmahen/react-cube-navigation) - 3d cube style navigation pattern inspired by Instagram stories.
 
 #### UI Libraries
 
